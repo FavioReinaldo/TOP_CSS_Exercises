@@ -1,5 +1,13 @@
 # CSS Exercises
 
+
+
+THIS IS COPIED FROM TheOdinProject in order to do some css exercises!!!
+
+I solved the exercises and upload my solution
+
+-----------------------------------------------------------------------------------
+
 These exercises are a series of css related tasks intended to complement the HTML and CSS content on The Odin Project.
 
 These exercises should be done when instructed during the course of the curriculum.
