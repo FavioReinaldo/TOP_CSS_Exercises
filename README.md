@@ -1,13 +1,11 @@
-# CSS Exercises
+# DISCLAIMER
 
-
-## DISCLAIMER
-
-THIS IS COPIED FROM TheOdinProject in order to do some css exercises!!!
+THIS IS COPIED FROM TheOdinProject in order to do some css pratice!!!
 
 I solved the exercises and upload my solution
 
------------------------------------------------------------------------------------
+----------------------------------------------------
+# CSS Exercises
 
 These exercises are a series of css related tasks intended to complement the HTML and CSS content on The Odin Project.
 
