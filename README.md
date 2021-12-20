@@ -1,6 +1,7 @@
 # CSS Exercises
 
 
+## DISCLAIMER
 
 THIS IS COPIED FROM TheOdinProject in order to do some css exercises!!!
 
